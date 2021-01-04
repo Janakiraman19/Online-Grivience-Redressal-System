@@ -1,0 +1,29 @@
+.heroimg
+		{
+			
+			height:2000px;
+			background-repeat: no-repeat;
+			background-size:100%;
+			background-position: absolute;
+			background-attachment:scroll;
+
+		}
+		p
+		{
+			font-family:bradleyhand;
+			font-size:28px;
+			color:violet;
+			padding-left:15%;
+		}
+		input[type=text],[type=Email-Id],[type=Password]
+		 {
+               
+              width:60%;
+              padding: 12px 20px;
+              margin: 8px 0;
+              background-color: transparent;
+              border-right: transparent;
+              border-left: transparent;
+              border-top:transparent;
+              border-bottom: 2px solid red;
+          }
